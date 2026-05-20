@@ -423,6 +423,15 @@ mvn surefire-report:report
 
 ## 8. Prints de Execução
 
+<img width="1049" height="1089" alt="run1" src="https://github.com/user-attachments/assets/fff90864-12d2-4763-9d72-894ab84511fd" />
+
+<img width="1503" height="279" alt="run2" src="https://github.com/user-attachments/assets/c62e6c3a-128e-495c-b8e3-9e9b6363a761" />
+
+<img width="1200" height="259" alt="test" src="https://github.com/user-attachments/assets/8fbb3bed-6723-478c-aeaf-732c44cdf7b1" />
+
+<img width="441" height="392" alt="operations0 5" src="https://github.com/user-attachments/assets/92bce21a-e34e-481b-908b-188ebba449cd" />
+
+<img width="436" height="864" alt="operations" src="https://github.com/user-attachments/assets/03659524-853f-43d1-91fa-467109443529" />
 
 
 ---
